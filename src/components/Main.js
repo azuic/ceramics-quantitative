@@ -16,9 +16,9 @@ export class Main extends React.Component{
         };
         console.log(this.props.width,this.props.height)
         return(
-            <div style={mainSize}>
-                <Countries data={data} width={this.props.width} height={this.props.height}/>
-            </div>
+
+            <Countries data={data} width={this.props.width} height={this.props.height}/>
+
         )
     }
 
