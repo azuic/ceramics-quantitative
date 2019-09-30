@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ceramics-quantitative/precache-manifest.ff9a92ff92793036281379e6c7ed07f1.js"
+  "/ceramics-quantitative/precache-manifest.a50dd6102c2c99174e489d1506b91c05.js"
 );
 
 self.addEventListener('message', (event) => {

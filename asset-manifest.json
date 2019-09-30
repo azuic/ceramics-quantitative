@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ceramics-quantitative/static/css/main.8ba2cd8c.chunk.css",
-    "main.js": "/ceramics-quantitative/static/js/main.91049056.chunk.js",
-    "main.js.map": "/ceramics-quantitative/static/js/main.91049056.chunk.js.map",
+    "main.css": "/ceramics-quantitative/static/css/main.c8d1668f.chunk.css",
+    "main.js": "/ceramics-quantitative/static/js/main.9c46c81b.chunk.js",
+    "main.js.map": "/ceramics-quantitative/static/js/main.9c46c81b.chunk.js.map",
     "runtime-main.js": "/ceramics-quantitative/static/js/runtime-main.b88b6ca9.js",
     "runtime-main.js.map": "/ceramics-quantitative/static/js/runtime-main.b88b6ca9.js.map",
-    "static/js/2.8771b92d.chunk.js": "/ceramics-quantitative/static/js/2.8771b92d.chunk.js",
-    "static/js/2.8771b92d.chunk.js.map": "/ceramics-quantitative/static/js/2.8771b92d.chunk.js.map",
+    "static/js/2.68d19350.chunk.js": "/ceramics-quantitative/static/js/2.68d19350.chunk.js",
+    "static/js/2.68d19350.chunk.js.map": "/ceramics-quantitative/static/js/2.68d19350.chunk.js.map",
     "index.html": "/ceramics-quantitative/index.html",
-    "precache-manifest.ff9a92ff92793036281379e6c7ed07f1.js": "/ceramics-quantitative/precache-manifest.ff9a92ff92793036281379e6c7ed07f1.js",
+    "precache-manifest.a50dd6102c2c99174e489d1506b91c05.js": "/ceramics-quantitative/precache-manifest.a50dd6102c2c99174e489d1506b91c05.js",
     "service-worker.js": "/ceramics-quantitative/service-worker.js",
-    "static/css/main.8ba2cd8c.chunk.css.map": "/ceramics-quantitative/static/css/main.8ba2cd8c.chunk.css.map",
+    "static/css/main.c8d1668f.chunk.css.map": "/ceramics-quantitative/static/css/main.c8d1668f.chunk.css.map",
     "static/media/logo.svg": "/ceramics-quantitative/static/media/logo.25bf045c.svg"
   }
 }
